@@ -1,6 +1,8 @@
-### Hi, I'm Arzu 👋
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzudabaniyasti&layout=compact&hide=html,css" alt="My Top Languages" />
-
+<h1 align="center">Hi 👋, I'm Arzu </h1>
+<p float="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzudabaniyasti&layout=compact&hide=html,css"/>
+    <img alt="Coding" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" align="right"/>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
