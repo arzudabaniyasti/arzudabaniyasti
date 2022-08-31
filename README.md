@@ -1,6 +1,8 @@
 ### Hi, I'm Arzu 👋
 [![My Skills](https://skills.thijs.gg/icons?i=java,cs,android&theme=light)](https://skills.thijs.gg)
-![image](https://user-images.githubusercontent.com/98702795/187776699-0dc68961-2e5c-420b-bd27-420cfe76e5ec.png)
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+[<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/98702795/187776699-0dc68961-2e5c-420b-bd27-420cfe76e5ec.png" />][blog]
+
 
 <!--
 **arzudabaniyasti/arzudabaniyasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
