@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arzu </h1>
-<p float="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzudabaniyasti&layout=compact&hide=html,css"/>
-    <img alt="Coding" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width="300" height="224"/>
-</p>
+
+<img alt="Coding" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" align="right" width="300" height="224"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -18,6 +17,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
+
+### About
+<-- I am a 4th year student at Akdeniz University
+<-- I am an intern at Odeabank 
+<-- I’m currently learning software architectures, C# and .Net for the backend web development
 
 <h3 align="left">Connect with me:</h3>
 [Mail](arzudabaniyasti@gmail.com) <br/> <br/>
