@@ -1,8 +1,8 @@
 ### Hi, I'm Arzu 👋
-
+[![My Skills](https://skills.thijs.gg/icons?i=java,cs,figma&theme=light)](https://skills.thijs.gg)
 <!--
 **arzudabaniyasti/arzudabaniyasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
