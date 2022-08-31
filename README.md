@@ -1,4 +1,6 @@
 ### Hi, I'm Arzu 👋
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzudabaniyasti&layout=compact&hide=html,css" alt="My Top Languages" />
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
