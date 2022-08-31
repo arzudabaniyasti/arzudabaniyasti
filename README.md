@@ -19,12 +19,16 @@
 </p>
 
 ### About
+
 <-- I am a 4th year student at Akdeniz University
+
 <-- I am an intern at Odeabank 
+
 <-- I’m currently learning software architectures, C# and .Net for the backend web development
 
+
 <h3 align="left">Connect with me:</h3>
-[Mail](arzudabaniyasti@gmail.com) <br/> <br/>
+**arzudabaniyasti@gmail.com)** <br/> <br/>
 <p align="left">
     <a href="https://twitter.com/arzudabaniyasti" target="blank"> 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"           alt="sitahmetemin" height="30" width="40" />
