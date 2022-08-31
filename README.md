@@ -2,6 +2,14 @@
 
 <img alt="Coding" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" align="right" width="300" height="224"/>
 
+### About
+
+<-- I am a 4th year student at Akdeniz University
+
+<-- I am an intern at Odeabank 
+
+<-- I’m currently learning software architectures, C# and .Net for the backend web development
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -18,17 +26,8 @@
   </a>
 </p>
 
-### About
-
-<-- I am a 4th year student at Akdeniz University
-
-<-- I am an intern at Odeabank 
-
-<-- I’m currently learning software architectures, C# and .Net for the backend web development
-
-
 <h3 align="left">Connect with me:</h3>
-**arzudabaniyasti@gmail.com)** <br/> <br/>
+**arzudabaniyasti@gmail.com** <br/> <br/>
 <p align="left">
     <a href="https://twitter.com/arzudabaniyasti" target="blank"> 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"           alt="sitahmetemin" height="30" width="40" />
