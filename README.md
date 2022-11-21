@@ -4,11 +4,11 @@
 
 ### About
 
-<-- I am a 4th year student at Akdeniz University
-
-<-- I am an intern at Odeabank 
+<-- I am a 4th year student at Akdeniz University 
 
 <-- I’m currently learning software architectures, C# and .Net for the backend web development
+
+<-- I'm developing a mobile application for college academic project
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
