@@ -4,13 +4,13 @@
 
 ### About
 
-<-- I am a 4th year student at Akdeniz University 
+<-- I graduated from Akdeniz University. 
 
 <-- I’m currently learning software architectures, C# and .Net for the backend web development
 
-<-- I'm developing a mobile application for college academic project
+<-- I'm developed a mobile application for college academic project
 
-<-- I'm intern backend developer at Atonomik
+<-- I'm software developer at Technology Of Money (T.O.M.)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
